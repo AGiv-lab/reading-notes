@@ -5,7 +5,7 @@ This site is for notes on reading assignments learned during the software develo
 **Growth Mindset**
 
 Advancing and scaling action through encouaging thought models.
-
+![Fixed mindset vs. Growth mindset](https://luivaldo.github.io/reading-notes/)
 
 *The view you adopt for yourself profoundly affects the way you lead your life -Carol Dweck*
 
