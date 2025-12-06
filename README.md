@@ -4,7 +4,7 @@ This site is for notes on reading assignments learned during the software develo
 
 **Growth Mindset**
 
-Advancing and scaling action through encouaging thought models.
+Advancing and scaling action through encouraging thought models.
 
 *The view you adopt for yourself profoundly affects the way you lead your life -Carol Dweck*
 
