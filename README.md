@@ -11,7 +11,7 @@ Advancing and scaling action through encouaging thought models.
 
 **Three Reminders of Growth Mindset**
 
-[New Growth Minset](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2-768x960.png)
+[New Growth Mindset](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2-768x960.png)
 
 1. First item - **Embrace Challenges** 
 2. Second item - **Diminish Obstacles** 
