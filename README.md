@@ -19,3 +19,5 @@ Advancing and scaling action through encouraging thought models.
 -find the root of the problem\
 -articles, email, videos are small diversions\
 -pleasures that result from determination will far outweigh instant gratification
+
+![Tux, the Linux mascot](/assets/images/tux.png)
