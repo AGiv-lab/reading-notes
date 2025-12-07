@@ -20,4 +20,5 @@ Advancing and scaling action through encouraging thought models.
 -articles, email, videos are small diversions\
 -pleasures that result from determination will far outweigh instant gratification
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Space Frog](https://easy-peasy.ai/ai-image-generator/images/pixel-art-frog-golden-eyeglasses-rocket-moon)
+
