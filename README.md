@@ -20,4 +20,4 @@ Advancing and scaling action through encouraging thought models.
 -articles, email, videos are small diversions\
 -pleasures that result from determination will far outweigh instant gratification
 
-
+!{Frog}(https://creativecommons.org/publicdomain/zero/1.0/)
