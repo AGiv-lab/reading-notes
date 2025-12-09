@@ -20,8 +20,3 @@ Advancing and scaling action through encouraging thought models.
 - articles, email, videos are small diversions\
 - pleasures that result from determination will far outweigh instant gratification
 
-###### Room to Practice Syntax
-
-!{Frog}(https://freesvg.org/img/Frog-V_1750249422.png)
-
-#https://creativecommons.org/publicdomain/zero/1.0/
