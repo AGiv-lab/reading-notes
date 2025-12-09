@@ -6,7 +6,7 @@ This site is for notes on reading assignments learned during the software develo
 
 Advancing and scaling action through encouraging thought models.
 
-*The view you adopt for yourself profoundly affects the way you lead your life -Carol Dweck*
+>*The view you adopt for yourself profoundly affects the way you lead your life -Carol Dweck*
 
 **Three Reminders of Growth Mindset**
 
