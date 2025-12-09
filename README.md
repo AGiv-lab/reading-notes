@@ -2,7 +2,7 @@
 
 This site is for notes on reading assignments learned during the software development class.
 
-**Growth Mindset**
+##**Growth Mindset**
 
 Advancing and scaling action through encouraging thought models.
 
