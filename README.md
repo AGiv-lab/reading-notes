@@ -16,9 +16,9 @@ Advancing and scaling action through encouraging thought models.
 2. Second item - **Diminish Obstacles** 
 3. Third item - **Success**  
 
--find the root of the problem\
--articles, email, videos are small diversions\
--pleasures that result from determination will far outweigh instant gratification
+- find the root of the problem\
+- articles, email, videos are small diversions\
+- pleasures that result from determination will far outweigh instant gratification
 
 ###### Room to Practice Syntax
 
