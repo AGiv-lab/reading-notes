@@ -6,7 +6,7 @@ This site is for notes on reading assignments learned during the software develo
 
 >**Writing code in public, learning as I go**
 
-*Hello World. My name is A. Givens. I've started my journey this year in Software Development. My prior experience has been in Multimedia applications and projects. I enjoy both the creative and the creating or building. Please stay tuned for more experiemtns in tech!*
+*Hello World. My name is A. Givens. I've started my journey this year in Software Development. My prior experience has been in Multimedia applications and projects. I enjoy both the creative and the creating or building. Please stay tuned for more experiments in tech!*
 
 **Growth Mindset**
 
