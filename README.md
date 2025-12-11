@@ -12,11 +12,12 @@ Advancing and scaling action through encouraging thought models.
 
 [New Growth Mindset](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2-768x960.png)
 
+ (`---`)
+
 1. First item - **Embrace Challenges** 
 2. Second item - **Diminish Obstacles** 
 3. Third item - **Success**  
 
-- find the root of the problem\
-- articles, email, videos are small diversions\
+- find the root of the problem
+- articles, email, videos are small diversions
 - pleasures that result from determination will far outweigh instant gratification
-
