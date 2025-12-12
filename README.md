@@ -35,30 +35,51 @@ Advancing and scaling action through encouraging thought models.
 [**102**] 
 
 [reading-01](102/read-01)
+
 [reading-02](102/read-02)
+
 [reading-03](102/read-03)
+
 [reading-04](102/read-04)
+
 [reading-05](102/read-05)
+
 [reading-06](102/read-06)
+
 [reading-07](102/read-07)
+
 [reading-08](102/read-08)
 
 [**201**]
 
 [reading-01](201/read-01)
+
 [reading-02](201/read-02)
+
 [reading-03](201/read-03)
+
 [reading-04](201/read-04)
+
 [reading-05](201/read-05)
+
 [reading-06](201/read-06)
+
 [reading-07](201/read-07)
+
 [reading-08](201/read-08)
+
 [reading-09](201/read-09)
+
 [reading-10](201/read-10)
+
 [reading-11](201/read-11)
+
 [reading-12](201/read-12)
+
 [reading-13](201/read-13)
+
 [reading-14](201/read-14)
+
 [reading-15](201/read-15)
 
 
