@@ -16,3 +16,13 @@
 -cd
 -mkdir
 -touch
+
+**Git**
+
+-Git -the version control system (the actual software that tracks changes)
+
+-Git Bash -a command-line program that lets you use Git on Windows
+
+-VS Code -an editor that can also use Git
+
+-GitHub -a hosting service for Git repositories

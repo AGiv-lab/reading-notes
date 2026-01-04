@@ -16,6 +16,6 @@
 
 - When making text bold or italicized for emphasis, it is best practice to use which symbol? ** or __
 
-- How do you create a link with Markdown? [NYT]( https:newyorktimes.com)
+- How do you create a link with Markdown? [NYT](nytimes.com)
 
 - What are the three symbols you can use to create an unordered (bulleted) list with Markdown? -,*,+
