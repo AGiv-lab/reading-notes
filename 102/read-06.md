@@ -1,25 +1,29 @@
 # 102-Reading_06
 
-##Dynamic Web Papes with Javascript
+**Dynamic Web Pages with Javascript**
 
 *What are variables in JavaScript?*
 
-**Variables** are containers used to store data values so they can be used and changed later in a program.
+**Variables** 
+
+are containers used to store data values so they can be used and changed later in a program.
 
 **What variables do**
 
-**Store information** (numbers, text, objects, etc.)
+-**Store information** (numbers, text, objects, etc.)
 
-**Allow reuse of data**
+-**Allow reuse of data**
 
-**Allow values to change while the program runs**
+-**Allow values to change while the program runs**
 
-###Declaring variables in JavaScript
+**Declaring variables in JavaScript**
 
 JavaScript provides three main ways:
 
 let age = 20;      // value can change
+
 const name = "Sam"; // value cannot change
+
 var score = 100;  // older method (less recommended)
 
 **Key points**
@@ -41,7 +45,9 @@ var → *older keyword with different scope rules*
 -var older keyword with different scope rules
 
 **example** 
+
 let total = 0;
+
 total = total + 5;
 
 variables are named storage locations for data in JavaScript
@@ -52,15 +58,21 @@ variables are named storage locations for data in JavaScript
 
 **Assignment Operator is an operator used to assign a value to a variable.**
 
-**Example**- let x = 10;
+**Example**
+
+- let x = 10;
+
 -= is the assignment operator
+
 -10 is asssigned to the variable x
 
 -let x = 5;
--x += 3; // same as x = x + 3
-**So, an assignment operator assigns (stores) values in variables.**
 
-Common assignment operators
+-x += 3; // same as x = x + 3
+
+**An assignment operator assigns (stores) values in variables.**
+
+**Common assignment operators**
 
 = assigns a value
 
@@ -77,12 +89,18 @@ Common assignment operators
 *What is information received from the user called?* 
 
 **Input**
--User Input, data entered by the user (most common term)
 
--Input data, he actual values provided
+-User Input, 
+data entered by the user (most common term)
 
--Arguments/parameters, when the user input is passed into a function
+-Input data, 
+the actual values provided
 
--Form Data, when input comes from an HTML form
+-Arguments/parameters, 
+when the user input is passed into a function
 
--Event Data, when input comes from user actions like clicks or key presses
+-Form Data, 
+when input comes from an HTML form
+
+-Event Data, 
+when input comes from user actions like clicks or key presses
