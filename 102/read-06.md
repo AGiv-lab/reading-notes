@@ -1,6 +1,6 @@
 # 102-Reading_06
 
-**Dynamic Web Pages with Javascript**
+**Dynamic Web Pages with JavaScript**
 
 *What are variables in JavaScript?*
 
@@ -104,3 +104,35 @@ when input comes from an HTML form
 
 -Event Data, 
 when input comes from user actions like clicks or key presses
+
+##**Reading notes playlist**
+
+###**How do Computers work PLaylist**
+
+I appreciated learning that all computers do the same thing:
+
+-Input, converts to binary info
+
+_Store, Memory stores info
+
+-Process, CPU calculates info
+
+_Output, takes physical info and converts it to output
+
+The video on Binary code was very useful to see how this system is used in modern computing. 
+
+Using 0, and 1 to represent all data and instructions, this is an efficient data storage, processing and communication between devices
+
+**Hardware and Software**
+
+**CPU** is the master chip that controls all the other parts of the computer.
+
+CPU needs to do different things:
+-math and logic
+-sends and receive 
+
+**Software**
+
+-Binary code would take too long to write. Software like Python, Ruby, and Blockly can allow typed commands like english.
+
+-Software allows input commands to be converted into thousands of simpler binary commands the CPU understands
