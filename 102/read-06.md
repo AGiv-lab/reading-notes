@@ -107,7 +107,7 @@ when input comes from user actions like clicks or key presses
 
 ##**Reading notes playlist**
 
-###**How do Computers work PLaylist**
+###**How do Computers work Playlist**
 
 I appreciated learning that all computers do the same thing:
 
