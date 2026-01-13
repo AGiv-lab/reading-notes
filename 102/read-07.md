@@ -18,11 +18,8 @@
 
 *What are the parenthesis () for when you define a function?*
 
-**Storing parameters (place holders) there. Parameter when youre defining function
-use arguements when youre calling the function. they mean the
-same thing but are used deferrently arguements are the replacement for valeues - numbers strings or booleans as an example**
+**Storing parameters (place holders) there. Parameter when youre defining function use arguements when youre calling the function. They mean the same thing but are used deferrently arguements are the replacement for valeues - numbers strings or booleans as an example**
 
 **pass in a value** 
 
-**your function doesnt need any data to pass on
-you must have the function name to call once you have previously made the function**
+**your function doesnt need any data to pass on. You must have the function name to call once you have previously made the function**
