@@ -2,7 +2,7 @@
 
 ##Design Web Pages with CSS
 
-*What is the purpose of **CSS**?*
+*What is the purpose of **CSS**?* 
 
 ###Cascading Style Sheets
 
