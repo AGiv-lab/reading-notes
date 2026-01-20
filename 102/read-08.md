@@ -9,7 +9,7 @@
 
 *Why would we use a loop in our code?*
 
-**To repeat the same task without rewritting code**
+**To repeat the same task without rewriting code**
 
 *When does a for loop stop executing?*
 
