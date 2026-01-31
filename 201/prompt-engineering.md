@@ -28,4 +28,4 @@ Open airway and check breathing & pulse (ABCs)
 
 But scene safety always comes first in EMT protocol.*
 
-**I found this answer to be acurate, though checking the scene is more of an inate skill, or prior to exiting the emergency vehicle. Making verbal contact, assessing a need for backup, and the essential ABCs (Airway, Breathing and Circulation) are indeed the first actions to take. I did mention the patient was unconscious, the prompt could have left out addressing the patient, it is standard practice to address conscience patients otherwise. I give chat gpt an A++**
+**I found this answer to be accurate, though checking the scene is more of an inate skill, or prior to exiting the emergency vehicle. Making verbal contact, assessing a need for backup, and the essential ABCs (Airway, Breathing and Circulation) are indeed the first actions to take. I did mention the patient was unconscious, the prompt could have left out addressing the patient, it is standard practice to address conscience patients otherwise. I give chat gpt an A++**
