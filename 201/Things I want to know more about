@@ -46,4 +46,20 @@ How pair programming works in real development teams
 
 - How font choices affect accessibility and performance
 
----
+--
+## **Class 6**
+
+When it’s better to use objects instead of arrays
+
+How the this keyword behaves in different situations
+
+How JavaScript interacts with the DOM behind the scenes
+
+Best practices for breaking down a problem domain before coding
+
+*Common mistakes beginners make when working with objects and the DOM*
+  -When to choose objects over arrays
+
+  -How this behaves in different contexts
+
+*How DOM manipulation works behind the scenes*
