@@ -1,6 +1,30 @@
 # Things I Want to Know More About
 
-##**Class 4**
+## **Class 3**
+
+***Conditionals***
+
+*Used to make decisions in code*
+
+example:
+
+If a user is logged in, show logout button
+
+Else, show login button
+
+***Loops***
+
+*Used to repeat actions*
+
+Example:
+
+Loop through items in a shopping cart
+
+Loop through ratings or scores
+
+
+
+## **Class 4**
 
 When to use absolute vs fixed positioning
 
@@ -8,7 +32,9 @@ How to write more accessible links
 
 How pair programming works in real development teams
 
-##**Class 5**
+
+
+## **Class 5**
 
 - How screen readers interpret complex images and charts
 
