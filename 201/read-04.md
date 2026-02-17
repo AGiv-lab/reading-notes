@@ -1,5 +1,6 @@
 # 201-Reading_04
 
+
 ##**HTML Links**
 
 -<a> (anchor) — the HTML element used to create links
@@ -9,6 +10,7 @@
 -Link text — should describe where the link goes (for accessibility)
 
 -Accessible links — readable text, good contrast, keyboard-friendly
+
 
 
 ##**CSS Layout**
@@ -26,6 +28,7 @@
 -Fixed positioning — stays in the same place when scrolling
 
 
+
 ###**JavaScript Functions**
 
 *Functions* — reusable blocks of code
@@ -37,6 +40,8 @@
 *Parameters* — placeholders inside the function
 
 *Arguments* — actual values passed into the function
+
+
 
 ###**Pair Programming**
 
