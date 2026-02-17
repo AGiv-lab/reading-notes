@@ -53,3 +53,9 @@ Today’s readings helped me see how foundational tools like HTML links, CSS lay
 ### **Learning Journal class 5**
 
 Today reinforced the importance of understanding why I am learning each concept. On a small scale, tools like Git, JavaScript functions, and debugging matter because they help me think logically and solve real problems. On a larger scale, learning web development supports my goal of building practical, creative skills that translate into a sustainable career. Knowing the *"why's"* keep me motivated and helps each lesson feel purposeful.
+
+### **Learning Journal class 6**
+
+It's important to understand the ***problem*** before writing code.
+-objects helped grouping related data makes code easier to manage, -DOM explaines how JavaScript *functions enable what users see on a page. 
+-it's better to organize information clearly and think through the problem first
