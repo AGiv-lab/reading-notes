@@ -2,7 +2,7 @@
 
 # Images, Accessibility, and CSS Styling
 
-## Why This Topic Matters
+## Approaching Accessibility-Centered Design
 
 This topic matters because images, color, and text styling are core parts of how users experience a website. As I continue learning HTML and CSS, understanding accessibility ensures that what I build can be used by as many people as possible, including users who rely on assistive technologies. Styling choices such as color, fonts, and spacing also directly affect readability, usability, and the overall professionalism of a site.
 
