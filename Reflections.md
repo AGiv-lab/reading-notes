@@ -28,6 +28,10 @@
 -GitHub -a hosting service for Git repositories
 
 
+### **Learning journal class 2**
+
+Class 2 made structure and semantics in HTML clearer. Using the right tags helps both users and search engines understand a page better. JavaScript also makes more sense now that I see how it adds real interaction. 
+
 
 ### **Learning journal class 3**
 
