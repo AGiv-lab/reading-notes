@@ -63,3 +63,11 @@ Best practices for breaking down a problem domain before coding
   -How this behaves in different contexts
 
 *How DOM manipulation works behind the scenes*
+
+## **Class 7**
+
+*Low-fidelity and high-fidelity design prototypes*
+
+**Low-fidelity** designs are simple and abstract, focusing on content structure, hierarchy, and early usability feedback with little visual detail or functionality
+
+**High-fidelity** designs closely resemble the final product, including detailed visuals, colors, typography, and interactive elements, which allows for more thorough testing and detailed feedback on design and advanced features.
