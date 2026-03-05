@@ -71,3 +71,66 @@ Best practices for breaking down a problem domain before coding
 **Low-fidelity** designs are simple and abstract, focusing on content structure, hierarchy, and early usability feedback with little visual detail or functionality
 
 **High-fidelity** designs closely resemble the final product, including detailed visuals, colors, typography, and interactive elements, which allows for more thorough testing and detailed feedback on design and advanced features.
+
+## **Class 8**
+
+
+## **Class 9**
+HTML Forms — form elements, attributes, and structure
+Form Validation — client side vs server side validation
+DOM Manipulation — selecting and changing elements
+JavaScript Events — click, submit, keydown etc.
+Event Listeners — how addEventListener() works
+Callback Functions — what they are and how they work
+The Event Object — properties like target, type, value
+Event Bubbling & Capturing — how events travel through the DOM
+event.preventDefault() — controlling default browser behavior
+User Experience in Forms — best practices for form design
+
+
+## **Class 10**
+***function calls*** 
+## Debugging Resources
+
+### 1. Browser Developer Tools
+- **Chrome DevTools**
+- **Firefox Web Console**
+- **Safari Web Inspector**
+- Inspect HTML, CSS, JS
+- View console errors and network requests
+
+### 2. Console Methods
+- `console.log()` – print values for debugging
+- `console.error()` – show errors
+- `console.warn()` – warnings
+- `console.table()` – display data in table format
+
+### 3. Breakpoints
+- Pause code execution in **DevTools Sources tab**
+- Step through code line-by-line
+
+### 4. Online Documentation
+- **MDN Web Docs**
+- **Stack Overflow**
+- Official JavaScript documentation
+
+### 5. Linters & Formatters
+- **ESLint** – detects code issues
+- **Prettier** – formats code consistently
+
+### 6. Version Control
+- **Git / GitHub**
+- Track changes and revert buggy code
+
+
+
+
+
+
+
+
+## **Class 11**
+## **Class 12**
+## **Class 13**
+## **Class 14**
+## **Class 15**
