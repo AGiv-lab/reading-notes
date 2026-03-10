@@ -122,14 +122,15 @@ User Experience in Forms — best practices for form design
 - **Git / GitHub**
 - Track changes and revert buggy code
 
+## **Class 11** 
+##  Audio and Video in HTML; Domain Modeling Revisited
 
+- How does the browser decide which image to use from `srcset`?
+- When should developers use the `<picture>` element instead of `<img>`?
+- What image formats are best for performance on websites?
+- How can images be optimized to make pages load faster?
+- How does lazy loading work for images?
 
-
-
-
-
-
-## **Class 11**
 ## **Class 12**
 ## **Class 13**
 ## **Class 14**

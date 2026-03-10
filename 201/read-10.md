@@ -135,3 +135,12 @@ helps trace errors when it happening , recursion issues , infinite loops
 1. Check "Enable Show Develop menu in menu bar".
 
 1. From the Develop menu, select "Show Web Inspector".
+
+###JAVASCRIPT
+
+console.log(variableName);
+-Check if variables contain the expected values
+
+-See if code sections are running
+
+-Track program flow
