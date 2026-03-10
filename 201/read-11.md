@@ -13,7 +13,7 @@
 -Controls-we can add the controls attribute without having to install additional plug ins. tells the browser to play pause or full screen options.
 The video control should be there.
 
-3. Why is it important to have **fallback content** inside the `<video>` element? *incase the video fails to load.* Not all all browsers support video format. MP$ are the most versatile. *It is important to have fallback content inside the <video> element because not all browsers or devices support the video format or the <video> tag. Fallback content provides an alternative, such as a message or a download link, so users can still access the information even if the video cannot play. This helps make the webpage more accessible and user-friendly.*
+3. Why is it important to have **fallback content** inside the `<video>` element? *incase the video fails to load.* Not all all browsers support video format. MP4 are the most versatile. *It is important to have fallback content inside the <video> element because not all browsers or devices support the video format or the <video> tag. Fallback content provides an alternative, such as a message or a download link, so users can still access the information even if the video cannot play. This helps make the webpage more accessible and user-friendly.*
 
 4. Write a very short story where `<audio>` and `<video>` are characters.
 
