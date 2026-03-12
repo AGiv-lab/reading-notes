@@ -87,6 +87,14 @@ Event Bubbling & Capturing — how events travel through the DOM
 event.preventDefault() — controlling default browser behavior
 User Experience in Forms — best practices for form design
 
+## Reflection on HTML Forms
+
+Learning about HTML forms helped me understand how websites collect information from users. Forms allow users to enter data such as names, emails, and messages using input fields.
+
+I learned that elements like `<form>`, `<input>`, `<label>`, and `<button>` work together to create a form. These elements help organize the information and make it easier for users to interact with a webpage.
+
+Overall, forms are important because they allow websites to communicate with users and collect the information they need.
+
 
 ## **Class 10**
 ***function calls*** 
@@ -122,6 +130,14 @@ User Experience in Forms — best practices for form design
 - **Git / GitHub**
 - Track changes and revert buggy code
 
+## Reflection on Debugging
+
+Debugging encourages slowing down to look at my code to find what is causing the problem.
+
+Many small mistakes are common. Missing syntax typos can cause code to stop working. By reading error messages and testing parts of my code in console hopefuly I'll figure it out.
+
+Debugging has helps me become more patient with solving problems. It shows me that mistakes are a normal part of being a developer.
+
 ## **Class 11** 
 ##  Audio and Video in HTML; Domain Modeling Revisited
 
@@ -141,6 +157,13 @@ Images can be optimized by compressing them, reducing their size, using modern f
 Lazy loading delays loading images until they are close to appearing on the user's screen. This helps the page load faster because images that are not immediately visible are loaded later.
 
 ## **Class 12**
+## Things I Want to Know
+
+I would like to learn more about how the ***canvas*** element can be used to create more complex graphics and animations to be used creating games or interactive visuals. How does Js control what gets drawn on the canvas?.
+
+-customize charts in Chart.js- colors, styles, and animations to match a website’s design.
+
+-updating charts automatically with data changes, for real-time data
 ## **Class 13**
 ## **Class 14**
 ## **Class 15**
