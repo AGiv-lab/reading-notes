@@ -125,11 +125,20 @@ User Experience in Forms — best practices for form design
 ## **Class 11** 
 ##  Audio and Video in HTML; Domain Modeling Revisited
 
-- How does the browser decide which image to use from `srcset`?
-- When should developers use the `<picture>` element instead of `<img>`?
-- What image formats are best for performance on websites?
-- How can images be optimized to make pages load faster?
-- How does lazy loading work for images?
+### How does the browser decide which image to use from `srcset`?
+The browser chooses the best image from `srcset` based on the user's screen size, resolution, and device type. It selects the image that will look good while also loading efficiently.
+
+### When should developers use the `<picture>` element instead of `<img>`?
+Developers should use the `<picture>` element when they want to provide different images for different screen sizes, devices, or formats. It gives more control over which image the browser displays.
+
+### What image formats are best for performance on websites?
+Modern formats like **WebP** and **AVIF** are best for performance because they keep good image quality while using smaller file sizes. **JPEG** and **PNG** are also commonly used.
+
+### How can images be optimized to make pages load faster?
+Images can be optimized by compressing them, reducing their size, using modern formats like WebP, and making sure they are not larger than necessary for the page.
+
+### How does lazy loading work for images?
+Lazy loading delays loading images until they are close to appearing on the user's screen. This helps the page load faster because images that are not immediately visible are loaded later.
 
 ## **Class 12**
 ## **Class 13**
