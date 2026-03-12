@@ -2,7 +2,7 @@
 
 ## Canvas
 
-### What does the `<canvas>` allow a developer to achieve?
+### What does the **canvas** allow a developer to achieve?
 The `<canvas>` element allows developers to draw graphics directly in the browser using JavaScript. It can be used to create drawings, animations, games, and visual data like charts.
 
 ### What is the importance of the closing `</canvas>` tag?
