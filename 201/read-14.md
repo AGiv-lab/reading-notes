@@ -28,13 +28,21 @@ Images that slightly zoom in
 
 Buttons that feel more interactive
 }
-What does a CSS transform allow the developer to do to an element?
-Provide an example of a transform and how you could see that being used on a website.
+
+
+*What does a CSS transform allow the developer to do to an element?*
+
+**Provide an example of a transform and how you could see that being used on a website.**
+
+
 CSS Transitions & Animations
 
-What does a CSS transition allow the developer to do to an element?
+*What does a CSS transition allow the developer to do to an element?*
+A CSS transition lets a developer **make changes happen smoothly over time instead of instantly**.
+
 
 *How does a CSS animation differ from a CSS transition?*
+
 Transition:
 
 -Simple (start → end)
@@ -48,6 +56,7 @@ Transition:
 -Can run automatically
 
 -More control and more complex
+
 
 ##8 simple CSS3 transitions that will wow your users-
 
@@ -68,7 +77,8 @@ Transition:
 -Opacity changes
 
 
-*What are some benefits to using CSS transitions on websites?
+*What are some benefits to using CSS transitions on websites?*
+
 -websites feel modern and polished
 
 -Improves user experience
@@ -80,6 +90,8 @@ Transition:
 -No JavaScript needed
 
 -Runs efficiently in the browser
+
+
 
 ###How this topic fit in with your long-term goals?
 
@@ -96,9 +108,9 @@ Transition:
 *What are three key factors that contribute to psychologically safe teams?*
 ## Three key factors
 
-- **Open communication** → People feel safe to speak up  
-- **Respect** → Everyone listens and values each other  
-- **Equal voice** → Everyone gets a chance to talk  
+ **Open communication**  People feel safe to speak up  
+ **Respect** Everyone listens and values each other  
+ **Equal voice**  Everyone gets a chance to talk  
 
 ---
 *Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.*
@@ -118,6 +130,6 @@ It didn’t always feel safe to share ideas, so fewer people participated.
 - It’s about **how the team works together**
 
 
-### 2. Social Sensitivity
+###  Social Sensitivity
 - Team members can understand how others feel
 - They notice emotions and respond respectfully :contentReference[oaicite:2]{index=2}  
