@@ -1,6 +1,6 @@
 # 201-Reading_13
 
-##Local Storage
+## Local Storage
 
 ### Why would a developer use local storage for a web application?
 
