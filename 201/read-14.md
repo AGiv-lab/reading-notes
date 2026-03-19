@@ -14,6 +14,7 @@ You can:
 - Tilt it (skew)
 
 ### Example of a transform 
+
 css
 .card:hover {
   transform: scale(1.1);
@@ -30,18 +31,19 @@ Buttons that feel more interactive
 }
 
 
-*What does a CSS transform allow the developer to do to an element?*
+***What does a CSS transform allow the developer to do to an element?***
 
 **Provide an example of a transform and how you could see that being used on a website.**
 
 
 CSS Transitions & Animations
 
-*What does a CSS transition allow the developer to do to an element?*
+***What does a CSS transition allow the developer to do to an element?***
+
 A CSS transition lets a developer **make changes happen smoothly over time instead of instantly**.
 
 
-*How does a CSS animation differ from a CSS transition?*
+***How does a CSS animation differ from a CSS transition?***
 
 Transition:
 
@@ -58,7 +60,8 @@ Transition:
 -More control and more complex
 
 
-##8 simple CSS3 transitions that will wow your users-
+##**8 simple CSS3 transitions that will wow your users**
+
 
 -Smooth color changes
 
@@ -77,7 +80,8 @@ Transition:
 -Opacity changes
 
 
-*What are some benefits to using CSS transitions on websites?*
+
+***What are some benefits to using CSS transitions on websites?***
 
 -websites feel modern and polished
 
@@ -93,9 +97,10 @@ Transition:
 
 
 
-###How this topic fit in with your long-term goals?
+###***How this topic fit in with your long-term goals?***
 
-***Build better-looking websites***
+
+*Build better-looking websites*
 
 -Improve frontend development 
 
