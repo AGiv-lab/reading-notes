@@ -8,12 +8,19 @@
  **CSS transform** lets a developer *change how an element looks or moves* without changing the page layout.
 
 You can:
-- Move it (translate)
-- Rotate it
+- Move it (translate) to a different position
+- Rotate it 
 - Resize it (scale)
 - Tilt it (skew)
 
+*Think of it like physically manipulating the onject on a page.*
+
+
 ### Example of a transform 
+css
+img: hover {
+  transform: rotate(20deg);
+}
 
 css
 .card:hover {
@@ -32,8 +39,8 @@ Buttons that feel more interactive
 
 
 ***What does a CSS transform allow the developer to do to an element?***
-
-**Provide an example of a transform and how you could see that being used on a website.**
+*(Provide an example of a transform and how you could see that being used on a website.)*
+**Transitions allow you to do it slower, piece by piece. (fade in and out)**
 
 
 CSS Transitions & Animations
@@ -45,39 +52,37 @@ A CSS transition lets a developer **make changes happen smoothly over time inste
 
 ***How does a CSS animation differ from a CSS transition?***
 
-Transition:
+**Transition**
 
 -Simple (start → end)
-
 -Needs a trigger (like hover)
 
--Animation:
+**Animation**  
 
--Can have multiple steps (keyframes)
-
+-Can have multiple steps (keyframes), 
 -Can run automatically
-
 -More control and more complex
 
 
 ##8 simple CSS3 transitions that will wow your users
 
 
--1. Smooth color changes
 
--2. Hover scaling (grow/shrink)
+1. Smooth color changes
 
--3. Moving elements slightly
+2. Hover scaling (grow/shrink)
 
--4. Fading in/out
+3. Moving elements slightly
 
--5. Shadow effects
+4. Fading in/out
 
--6. Border changes
+5. Shadow effects
 
--7. Rotations
+6. Border changes
 
--8. Opacity changes
+7. Rotations
+
+8. Opacity changes
 
 
 
