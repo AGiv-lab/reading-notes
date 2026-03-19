@@ -90,3 +90,34 @@ Transition:
 -projects feel more professional
 
 -better user experiences
+
+-------------------------------
+# Psychological Safety (Simple Notes)
+*What are three key factors that contribute to psychologically safe teams?*
+## Three key factors
+
+- **Open communication** → People feel safe to speak up  
+- **Respect** → Everyone listens and values each other  
+- **Equal voice** → Everyone gets a chance to talk  
+
+---
+*Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.*
+## Example of a team
+
+In a team I was in, a few people talked most of the time and others stayed quiet.  
+It didn’t always feel safe to share ideas, so fewer people participated.
+
+---
+*What impact do teams that operate with a high degree of psychological safety have on their company and the team members?*
+## Impact of psychologically safe teams
+
+- More ideas are shared  
+- People feel more confident  
+- Team works better together  
+- Better results overall 
+- It’s about **how the team works together**
+
+
+### 2. Social Sensitivity
+- Team members can understand how others feel
+- They notice emotions and respond respectfully :contentReference[oaicite:2]{index=2}  
