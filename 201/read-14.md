@@ -60,24 +60,24 @@ Transition:
 -More control and more complex
 
 
-##**8 simple CSS3 transitions that will wow your users**
+##8 simple CSS3 transitions that will wow your users
 
 
--Smooth color changes
+-1. Smooth color changes
 
--Hover scaling (grow/shrink)
+-2. Hover scaling (grow/shrink)
 
--Moving elements slightly
+-3. Moving elements slightly
 
--Fading in/out
+-4. Fading in/out
 
--Shadow effects
+-5. Shadow effects
 
--Border changes
+-6. Border changes
 
--Rotations
+-7. Rotations
 
--Opacity changes
+-8. Opacity changes
 
 
 
@@ -97,10 +97,10 @@ Transition:
 
 
 
-###***How this topic fit in with your long-term goals?***
+***How this topic fit in with your long-term goals?***
 
 
-*Build better-looking websites*
+-*Build better-looking websites*
 
 -Improve frontend development 
 
@@ -108,10 +108,11 @@ Transition:
 
 -better user experiences
 
+
 -------------------------------
 ## Psychological Safety 
 *What are three key factors that contribute to psychologically safe teams?*
-### Three key factors
+***Three key factors***
 
  **Open communication**  People feel safe to speak up  
  **Respect** Everyone listens and values each other  
@@ -121,12 +122,13 @@ Transition:
 *Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.*
 ### Example of a team
 
-In a team I was in, a few people talked most of the time and others stayed quiet.  
+In a team I was in, a few people talked most of the time and others stayed quiet.
+
 It didn’t always feel safe to share ideas, so fewer people participated.
 
 ---
 *What impact do teams that operate with a high degree of psychological safety have on their company and the team members?*
-### Impact of psychologically safe teams
+***Impact of psychologically safe teams***
 
 - More ideas are shared  
 - People feel more confident  
