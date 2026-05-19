@@ -1,3 +1,25 @@
+## Class 1
+
+------
+
+
 ## Class 2
 
--Mount, update, unmount
+-Mount, update, unMount
+-------
+
+
+
+## Class 3
+--------
+
+
+
+## Class 4 
+
+------
+
+
+## Class 5 
+- state should only contain data that affects what user sees
+- Lifting state up ;  state should live in the closest common parent component
