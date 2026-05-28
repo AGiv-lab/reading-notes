@@ -6,13 +6,13 @@
 +Node.js is a runtime environment that allows developers to run JavaScript outside of a web browser. It is commonly used for creating backend applications, servers, and APIs.
 
 2. In your own words, what is Chrome's V8 JavaScript Engine?
-+Chrome’s V8 JavaScript Engine is the technology that executes JavaScript code in the Chrome browser. It converts JavaScript into machine code so it can run quickly and efficiently on a computer.
++A converter. Chrome’s V8 JavaScript Engine is the technology that reads and runs (executes) JavaScript code in the Chrome browser. It converts JavaScript into machine code so it can run quickly and efficiently on a computer.
 
 3. What does it mean that node is a JavaScript runtime?
-+Being a JavaScript runtime means that Node.js provides the tools and environment needed to execute JavaScript code on a computer instead of inside a browser. This allows JavaScript to be used for server-side development.
++Being a JavaScript runtime means that Node.js provides the tools and environment needed to execute JavaScript code on a computer instead of inside a browser. This allows JavaScript to be used for server-side development. Node allows you to run outside the browser.
 
 4. What is npm?
-+npm stands for Node Package Manager. It is a tool used to install, manage, and share packages or libraries that developers can use in their projects.
++npm stands for **Node Package Manager.** It is a tool used to install, manage, and share packages or libraries that developers can use in their projects.
 
 5. What version of node are you running on your machine?
 +You can check the installed Node.js version by running the following command in the terminal:
@@ -30,7 +30,7 @@ npm -v
 +npm install jshint
 
 8. What is node used for?
-+Node.js is commonly used for building web servers, APIs, real-time applications, command-line tools, and backend systems. It is popular because it is fast, scalable, and efficient at handling multiple requests.
++Node.js is commonly used for **building web servers, APIs, real-time applications, chat programs, command-line tools, and backend systems.** It is popular because it is fast, scalable, and efficient at handling multiple requests.
 
 [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/){:target="_blank"}
 
@@ -41,7 +41,7 @@ It keeps both developers focused and engaged
 It encourages learning from another programmer
 It improves communication and teamwork skills
 It helps prepare for technical interviews
-It provides experience similar to real-world development jobs
+It provides experience similar to on-the-job development skills
 
 10. In your experience, which of these reasons have you found most beneficial?
 One of the most beneficial aspects of pair programming is learning from another person. Different people explain concepts in unique ways, which can make difficult topics easier to understand. It also exposes developers to different coding styles and problem-solving methods.
