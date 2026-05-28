@@ -11,11 +11,23 @@
 
 
 ## Class 3
---------
+React Docs - Passing Props to a Component
+Simple guide on passing data and functions between components.
+React Docs - Responding to Events
+Explains event handlers like onClick and handleClick.
+React Docs - Sharing State Between Components
+Beginner-friendly explanation of parent and child component communication.
+MDN JavaScript Arrow Functions
+Quick overview of arrow functions used in React.
+React Docs - Conditional Rendering
+Shows how to display different content based on conditions.
 
 
+## Class 4
+ https://www.youtube.com/watch?v=s4sB1hm73tw
+ternary operators
 
-## Class 4 
+web hooks
 
 ------
 
@@ -23,3 +35,14 @@
 ## Class 5 
 - state should only contain data that affects what user sees
 - Lifting state up ;  state should live in the closest common parent component
+
+## Class 6
+examples of  put, post,patch and get
+
+## Class 7
+How Node.js handles multiple users and requests at the same time
+How APIs work together with Node.js and Axios
+The difference between frontend and backend JavaScript
+How async and await work behind the scenes
+How npm packages are created and published
+-Examples of pair programming in software development teams
