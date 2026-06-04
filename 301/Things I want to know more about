@@ -46,3 +46,34 @@ The difference between frontend and backend JavaScript
 How async and await work behind the scenes
 How npm packages are created and published
 -Examples of pair programming in software development teams
+
+## Class 8
+
+For City Explorer, you're moving from:
+
+React Frontend
+
+to:
+
+React Frontend
+        ↓
+Express Backend
+        ↓
+Weather API / Movie API / Data Files
+
+The main idea of backend development isn't building screens—it's:
+
+Receiving requests
+Getting data
+Cleaning/formatting data
+Sending data back
+
+That's why you're learning:
+
+Express
+Routes
+Axios
+.env
+API keys
+
+They are the basic tools a backend server uses every day.
