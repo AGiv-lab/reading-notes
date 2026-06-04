@@ -151,22 +151,23 @@ Important Reminder About Axios
 #Discussion
 
 **Readings: APIs**
-1. What does REST stand for?
+1. *What does REST stand for?*
 
-Representational State Transfer
+**Representational State Transfer**
 
-2. REST APIs are designed around a ____________.
+*2. REST APIs are designed around a ____________.*
 
-Resource
+**Resource**
 
 Examples:
 
 User
 Product
 Weather forecast
-3. What is an identifier of a resource? Give an example.
 
-A resource identifier is a URI (Uniform Resource Identifier) that uniquely identifies a resource.
+*3. What is an identifier of a resource? Give an example.*
+
+**A resource identifier is a URI (Uniform Resource Identifier) that uniquely identifies a resource.**
 
 Example:
 
@@ -180,6 +181,7 @@ POST
 PUT
 PATCH
 DELETE
+
 Quick Reference
 Verb	Purpose
 GET	Retrieve data
@@ -187,9 +189,11 @@ POST	Create data
 PUT	Update/replace data
 PATCH	Update part of data
 DELETE	Remove data
+
+
 5. What should the URIs be based on?
 
-URIs should be based on nouns (resources) rather than actions.
+**URIs should be based on nouns (resources) rather than actions.**
 
 Good:
 
@@ -198,6 +202,8 @@ Good:
 Bad:
 
 /getUsers
+
+
 6. Give an example of a good URI.
 /api/customers/5/orders
 
@@ -209,7 +215,7 @@ These clearly identify resources.
 
 7. What does it mean to have a "chatty" web API? Is this a good or bad thing?
 
-A chatty API requires many requests to get the needed data.
+**A chatty API requires many requests to get the needed data.**
 
 Example:
 
@@ -220,20 +226,26 @@ Request 4 → Payment Info
 
 This is generally considered bad because it creates extra network traffic and slows applications down.
 
-8. What status code does a successful GET request return?
-200 OK
-9. What status code does an unsuccessful GET request return?
+8. *What status code does a successful GET request return?*
+**200 OK**
 
-Common examples:
+9. *What status code does an unsuccessful GET request return?*
+
+**Common examples:**
 
 404 Not Found
 400 Bad Request
 
-Most commonly:
+**Most commonly:**
 
-404 Not Found
+*404 Not Found*
+*500s server side issues*
+
+
 10. What status code does a successful POST request return?
 201 Created
+
+
 11. What status code does a successful DELETE request return?
 204 No Content
 
