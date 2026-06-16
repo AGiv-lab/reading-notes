@@ -1,102 +1,148 @@
-## Notes Class 10
+# In-Memory Storage Notes
 
-### 1. What is a cache?
+## JavaScript Call Stack
 
-A **cache** is temporary storage used to save data so it can be retrieved faster instead of requesting it again from an API or database.
+### What is a Call?
+- Running a function.
+
+### How many Calls can happen at once?
+- One at a time (single-threaded).
+
+### What does LIFO mean?
+- **Last In, First Out**
+- The most recent function runs first.
+
+### Example Call Stack
+
+```javascript
+function first() {
+  second();
+}
+
+function second() {
+  third();
+}
+
+function third() {
+  console.log("Hello");
+}
+
+first();
+```
+
+### Call Stack Order
+
+```text
+third()
+second()
+first()
+```
+
+### What causes a Stack Overflow?
+- Too many function calls.
+- Often caused by infinite recursion.
+
+
+Example:
+
+```javascript
+function loop() {
+  loop();
+}
+
+loop();
+```
+
+---
+-[JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c){:target="_blank"}
+
+
+## JavaScript Error Messages
+
+### What is a Reference Error?
+- Using a variable that doesn't exist.
+
+```javascript
+console.log(myVariable);
+```
+
+### What is a Syntax Error?
+- Invalid JavaScript syntax.
+
+```javascript
+if (true {
+  console.log("Hello");
+}
+```
+
+### What is a Range Error?
+- A value is outside the allowed range.
+
+```javascript
+new Array(-1);
+```
+
+### What is a Type Error?
+- Using a value in the wrong way.
+
+```javascript
+const num = 5;
+num();
+```
 
 ---
 
-### 2. What is a cache hit? What is a cache miss?
+## Debugging
 
-- **Cache Hit** = Data is found in the cache and can be used immediately.
-- **Cache Miss** = Data is not found in the cache and must be fetched from an API or database.
+### What is a Breakpoint?
+- A place where code pauses during execution.
 
----
-
-### 3. What does `debugger` do in your code?
-
-The `debugger` keyword pauses code execution and opens debugging tools so you can inspect variables and program flow.
+### What does `debugger` do?
+- Pauses code and opens debugging tools.
 
 ```javascript
 debugger;
 ```
+- [JavaScript errors reference on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors){:target="_blank"}
 
 ---
 
-### 4. What is a breakpoint?
+# Key Terms
 
-A **breakpoint** is a place where code execution pauses so you can inspect values and troubleshoot problems.
-
----
-
-### 5. List 5 different debugging tools
-
-1. `console.log()`
-2. Browser DevTools
-3. `debugger`
-4. Breakpoints
-5. Network Tab
-
----
-
-### 6. Adding Data to the Cache
-
-Before making an API request, check whether the data already exists in memory.
-
-```javascript
-if (inMemoryDB[ingredient] !== undefined) {
-  // Cache Hit
-  return inMemoryDB[ingredient];
-} else {
-  // Cache Miss
-  // Get data from API
-  inMemoryDB[ingredient] = recipeArr;
-}
-```
-
-**How it works:**
-- Check the cache first.
-- If data exists → use it.
-- If not → fetch data and save it in the cache.
+| Term | Meaning |
+|--------|---------|
+| Call | Running a function |
+| Call Stack | Functions currently executing |
+| LIFO | Last In, First Out |
+| Stack Overflow | Too many function calls |
+| Reference Error | Using something that doesn't exist |
+| Syntax Error | Invalid code syntax |
+| Range Error | Value outside allowed range |
+| Type Error | Wrong use of a value |
+| Breakpoint | Pause point for debugging |
+| debugger | Pauses code execution |
 
 ---
 
-### 7. Tracking How Old Cached Data Is
+# Learn More
 
-Add a timestamp when data is stored.
+### What is recursion?
+- A function calling itself.
 
-```javascript
-function Recipe(obj) {
-  // other properties
-  this.dateAdded = Date.now();
-}
-```
+### Why is JavaScript single-threaded?
+- One task at a time.
 
-**Purpose:**
-- Records when data was cached.
-- Helps determine whether cached data is still fresh.
+### What is the event loop?
+- Manages async tasks.
 
----
+### How do I read stack traces?
+- Start at the first error.
 
-### 8. Checking Cache Expiration
+### When should I use breakpoints?
+- When tracking bugs.
 
-Compare the current time to the saved timestamp.
+### debugger vs console.log()?
+- Pause vs print values.
 
-```javascript
-if (cache[key] && (Date.now() - cache[key].dateAdded < 50000)) {
-  console.log('Cache hit');
-} else {
-  // Cache expired
-  // Get fresh data from API
-}
-```
-
-**How it works:**
-- If data is less than 50,000 ms old → use cache.
-- If data is older → discard it and request fresh data.
-
-*Browser → API → Server → Database*
-
-*Database → Server → API → Browser*
-
-*Caching saves a copy somewhere in the middle so you don't have to repeat the whole trip every time.*
+### How do I avoid stack overflow?
+- Ensure recursion has a stopping condition.
