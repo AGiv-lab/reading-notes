@@ -77,3 +77,177 @@ Axios
 API keys
 
 They are the basic tools a backend server uses every day.
+
+## Class 9
+## Some additional clarifiers
+
+### When should I create a new module?
+When code gets large or reusable.
+
+### How many functions should be in one file?
+Only related functions.
+
+### When should I use async/await?
+For async operations.
+
+### When should I use .then()?
+For simple Promise handling.
+
+### What happens if I forget await?
+You get a Promise, not data.
+
+### What is callback hell?
+Too many nested callbacks.
+
+### Why do Promises exist?
+To manage async code.
+
+### What is the event loop?
+Handles async tasks.
+
+### What is CommonJS vs ES Modules?
+`require()` vs `import`.
+
+### What is the difference between require() and import?
+Different module systems.
+
+### How does Node.js organize files?
+Modules and folders.
+
+### What makes code maintainable?
+Readable, reusable, organized code.
+
+
+##Class 10 
+
+*class 10 - a few questions to ask at this point*
+
+# Caching
+
+### Why is caching important?
+Faster performance.
+
+### Advantages of caching?
+Faster, fewer API calls.
+
+### Disadvantages of caching?
+Stale data, memory use.
+
+### What is in-memory caching?
+Data stored in server memory.
+
+### What is localStorage caching?
+Data stored in browser.
+
+### When should cached data expire?
+When outdated.
+
+### What is cache invalidation?
+Removing old cache.
+
+### How do APIs use caching?
+Store responses temporarily.
+
+---
+
+# Debugging
+
+### How do I use breakpoints effectively?
+Pause and inspect values.
+
+### debugger vs console.log()?
+Pause vs print.
+
+### How do I read error messages?
+Read top error first.
+
+### How do I use the Network tab?
+View requests/responses.
+
+### How do I trace data flow?
+Follow variables step-by-step.
+
+### How do I debug async code?
+Check promises and awaits.
+
+---
+
+# APIs
+
+### How can caching reduce API requests?
+Reuse stored data.
+
+### Why do APIs have rate limits?
+Prevent overuse.
+
+### How can caching improve performance?
+Reduces waiting.
+
+### How do I know data is stale?
+Timestamp expired.
+
+---
+
+# React
+
+### How do React apps cache API responses?
+Store in state.
+
+### Where should cached data be stored?
+State, Context, localStorage.
+
+### When should state be refreshed?
+When data changes.
+
+### How can I avoid unnecessary API calls?
+Use cached data.
+
+---
+
+# Backend Development
+
+### How does server-side caching work?
+Store results in memory.
+
+### What is Redis?
+Fast cache database.
+
+### What is database caching?
+Store query results.
+
+### Common caching strategies?
+Memory, Redis, browser.
+
+---
+
+# Deeper Questions
+
+### What happens when I visit a website?
+Request → Response → Render.
+
+### How does a browser make API requests?
+HTTP requests.
+
+### How does data travel frontend to backend?
+HTTP request/response.
+
+### How does a database store information?
+Tables and records.
+
+### What makes a website fast?
+Caching, optimization.
+
+### What causes slow page loads?
+Large files, slow APIs.
+
+### How do authentication and logins work?
+Verify identity.
+
+### localStorage vs sessionStorage vs cookies?
+Persistent / temporary / small browser data.
+
+### Common security risks?
+XSS, SQL injection.
+
+### How does deployment work?
+Upload app to server.
