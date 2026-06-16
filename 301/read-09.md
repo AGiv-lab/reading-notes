@@ -220,7 +220,7 @@ Cleaner projects.
 
 ---
 
-# ELI10 Summary
+# Summary
 
 ```text
 Functions do work.
