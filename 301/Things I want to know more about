@@ -254,3 +254,473 @@ Upload app to server.
 
 # Class 11
 -examples of companies using SQL , NOSQL 
+
+# SQL vs NoSQL - Real-World Company Examples
+
+> **Note:** Many large companies use **both SQL and NoSQL** databases depending on the problem they're solving.
+
+## Companies Using Both SQL & NoSQL
+
+| Company | SQL | NoSQL | Why |
+|---------|:---:|:------:|-----|
+| Amazon | ✅ | ✅ | Orders and payments use SQL; shopping carts and recommendations often use NoSQL. |
+| Netflix | ✅ | ✅ | Uses SQL for transactional data and NoSQL for streaming metadata and scalability. |
+| Facebook | ✅ | ✅ | SQL for some internal systems; NoSQL for massive social graph and messaging data. |
+| Google | ✅ | ✅ | Uses SQL databases and large-scale NoSQL systems for search and cloud services. |
+| Uber | ✅ | ✅ | SQL for trips and payments; NoSQL for location and high-volume operational data. |
+| Airbnb | ✅ | ✅ | SQL manages bookings; NoSQL helps with caching and fast lookups. |
+| Spotify | ✅ | ✅ | SQL stores user and subscription data; NoSQL helps with playlists and recommendations. |
+| LinkedIn | ✅ | ✅ | SQL for member accounts; NoSQL for feeds and large-scale data. |
+
+# Class 12
+# CRUD in the Real World
+
+## What is CRUD?
+
+CRUD stands for the four basic actions applications perform on data.
+
+- **C** = Create
+- **R** = Read
+- **U** = Update
+- **D** = Delete
+
+Almost every website or app uses CRUD.
+
+---
+
+# Real-World Examples
+
+## 🛒 Online Shopping (Amazon)
+
+### Create
+- Add a new product
+- Create a customer account
+- Place an order
+
+### Read
+- View products
+- Read product reviews
+- Check order history
+
+### Update
+- Change shipping address
+- Update payment method
+- Edit shopping cart
+
+### Delete
+- Remove an item from the cart
+- Delete a saved payment method
+
+---
+
+## 🏦 Banking App
+
+### Create
+- Open a new account
+- Add a new payee
+
+### Read
+- View account balance
+- View transaction history
+
+### Update
+- Change contact information
+- Update account settings
+
+### Delete
+- Remove a scheduled payment
+- Close an account
+
+---
+
+## 📚 Library System
+
+### Create
+- Add a new book
+- Register a new member
+
+### Read
+- Search for books
+- View available copies
+
+### Update
+- Edit book information
+- Renew a checkout
+
+### Delete
+- Remove damaged books
+- Delete inactive member accounts
+
+---
+
+## 🎵 Spotify
+
+### Create
+- Create a playlist
+- Upload a podcast
+
+### Read
+- Browse artists
+- View playlists
+
+### Update
+- Rename a playlist
+- Change playlist order
+
+### Delete
+- Delete a playlist
+- Remove a saved song
+
+---
+
+## 💬 Social Media
+
+### Create
+- Create a post
+- Upload a photo
+- Write a comment
+
+### Read
+- View posts
+- Read comments
+- Browse profiles
+
+### Update
+- Edit a post
+- Change profile information
+
+### Delete
+- Delete a post
+- Remove a comment
+
+---
+
+# CRUD in Web Development
+
+As a web developer, you'll build CRUD features constantly.
+
+Examples include:
+
+- User accounts
+- Blog posts
+- Products
+- Books
+- Orders
+- Employees
+- Events
+- Messages
+
+---
+
+# CRUD in Our Code Projects
+
+## 📍 City Explorer
+
+- **Read** weather data
+- **Read** movie data
+
+---
+
+## 📚 Can of Books
+
+- **Create** a new book
+- **Read** all books
+- **Update** a book
+- **Delete** a book
+
+This project is a complete CRUD application.
+
+---
+
+# Why CRUD Matters
+
+CRUD is the foundation of most software.
+
+If an application stores data, it almost always needs CRUD operations.
+
+Examples include:
+
+- Banking apps
+- Hospitals
+- Schools
+- Online stores
+- Social media
+- Streaming services
+- Inventory systems
+- Restaurant ordering systems
+
+---
+
+# Interview Tip
+
+**Question:** What is CRUD?
+
+**Answer:**
+
+> CRUD stands for **Create, Read, Update, and Delete**. These are the four basic operations used to manage data in d
+
+
+
+# Class 13
+# 🔍 Things I Want to Know More About
+
+- Difference between **PUT** vs **PATCH** in real projects
+- When to use each HTTP status code
+- How Express routes connect to MongoDB
+- How Mongoose CRUD methods work behind the scenes
+- Authentication and permissions (who can update/delete data?)
+- How CRUD works with React and Axios
+- REST API best practices
+- Error handling and debugging CRUD requests
+- How large companies scale CRUD operations
+- SQL CRUD vs NoSQL CRUD differences
+- Soft delete vs permanent delete
+- API security (validation and sanitizing user input)
+- How CRUD changes when using cloud databases (MongoDB Atlas, Firebase)
+
+- Route handlers vs controllers
+- Express middleware order
+- REST API versioning (`/api/v1`)
+- PUT vs PATCH in production apps
+- Data validation before saving to MongoDB
+- Authentication (who can update/delete?)
+- Error handling best practices
+- Testing APIs with Postman and REST Client
+- Organizing large Express projects
+```
+# Class  14
+##Things I Want to Learn More About
+Accessibility in software design
+Inclusive UX/UI design
+Bias in AI and algorithms
+How companies improve diversity
+Careers supporting accessibility and inclusion
+
+
+## Microsoft
+
+### What They Did
+- Invested heavily in accessibility.
+- Included people with disabilities in product design.
+
+### Result
+- Created features like:
+  - Narrator (screen reader)
+  - Live Captions
+  - Eye Control
+  - Accessibility Checker in Microsoft Office
+
+**Lesson:** Designing for accessibility improves products for everyone.
+
+---
+
+## Apple
+
+### What They Did
+- Built accessibility into iPhone, iPad, and Mac from the start.
+
+### Result
+Features include:
+- VoiceOver
+- AssistiveTouch
+- Live Speech
+- Hearing Aid support
+
+**Lesson:** Inclusive design reaches more customers and improves usability.
+
+---
+
+## Airbnb
+
+### What They Did
+- Added anti-discrimination policies.
+- Improved accessibility filters for listings.
+
+### Result
+- Better experience for travelers with disabilities.
+- Increased trust among users.
+
+**Lesson:** Diverse user feedback leads to better platform design.
+
+---
+
+## Google
+
+### What They Did
+- Expanded accessibility and inclusive design practices.
+- Improved products using feedback from diverse users.
+
+### Result
+Examples:
+- Live Caption
+- Voice Access
+- Inclusive language tools
+
+**Lesson:** Different perspectives help solve more user problems.
+
+---
+
+## LEGO
+
+### What They Did
+- Worked with organizations supporting blind children.
+
+### Result
+- Created LEGO Braille Bricks to help children learn Braille through play.
+
+**Lesson:** Including different communities can inspire innovative products.
+
+---
+
+## Salesforce
+
+### What They Did
+- Conducted equal-pay reviews.
+- Invested in employee resource groups and inclusive hiring.
+
+### Result
+- Improved employee satisfaction and retention.
+- Strengthened company culture.
+
+**Lesson:** Inclusion benefits both employees and the business.
+
+---
+
+# Accessibility Success Example
+
+## Closed Captions
+
+Originally designed for:
+- Deaf and hard-of-hearing users
+
+Today used by:
+- People in noisy places
+- Language learners
+- Students
+- Social media users watching without sound
+
+**Lesson:** Accessibility features often benefit everyone.
+
+---
+
+# Why Diverse Teams Perform Better
+
+- More creative ideas
+- Better problem-solving
+- Fewer blind spots
+- Products serve a wider audience
+- Greater innovation
+- Better understanding of customer needs
+
+# Companies That Have Historically Faced Diversity Challenges
+
+> **Note:** These companies have publicly discussed or reported diversity challenges and have invested in DEI initiatives. 
+
+## Technology
+
+- Google
+- Meta (Facebook)
+- Apple
+- Microsoft
+- Amazon
+- Intel
+- Cisco
+- IBM
+- Oracle
+- Salesforce
+- Adobe
+- Uber
+- Airbnb
+- Netflix
+
+---
+
+## Finance & Banking
+
+- JPMorgan Chase
+- Goldman Sachs
+- Bank of America
+- Wells Fargo
+- Citigroup
+- Morgan Stanley
+
+---
+
+## Engineering & Manufacturing
+
+- Boeing
+- General Motors (GM)
+- Ford
+- Caterpillar
+- Siemens
+- General Electric (GE)
+
+---
+
+## Video Games
+
+- Activision Blizzard
+- Electronic Arts (EA)
+- Ubisoft
+- Riot Games
+- Epic Games
+
+---
+
+## Retail & Consumer Products
+
+- Walmart
+- Target
+- Nike
+- Starbucks
+- Costco
+
+---
+
+## Healthcare & Pharmaceuticals
+
+- Johnson & Johnson
+- Pfizer
+- Merck
+- CVS Health
+- Kaiser Permanente
+
+---
+
+## Consulting
+
+- Accenture
+- Deloitte
+- PwC
+- EY (Ernst & Young)
+- KPMG
+
+---
+
+# Common DEI Goals Across These Companies
+
+- Increase representation of women
+- Increase representation of underrepresented racial and ethnic groups
+- Improve accessibility for employees and customers
+- Reduce hiring and promotion bias
+- Increase diversity in leadership
+- Create inclusive workplace cultures
+- Improve equal pay practices
+- Expand mentorship and career development programs
+
+
+# Class  15
+
+
+# 🔍 Things I Want to Learn More About
+
+- JWT (JSON Web Tokens)
+- Access tokens vs refresh tokens
+- Sessions vs tokens
+- Cookies and secure storage
+- Multi-factor authentication (MFA)
+- How Auth0 works with React
+- Protected routes
+- User roles (Admin vs User)
+- OAuth security best practices
+```
