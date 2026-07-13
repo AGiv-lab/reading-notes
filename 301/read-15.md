@@ -1,164 +1,6 @@
 
-- [What is OAuth](https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html){:target="_blank"}
-
-(vid 1 recap, scroll down)
-- [Authorization and Authentication flows](https://auth0.com/docs/flows){:target="_blank"}
--vid 2 scroll down
-
-## Videos
-
-<!-- PLACEHOLDER -->
-
-## Bookmark and Review
-
-- [Auth0 for single page apps](https://auth0.com/docs/libraries/auth0-react){:target="_blank"}
-It's difficult to objectively say that a specific company "needs DEI," since that is a value judgment and companies vary in their current initiatives and workforce data. A more accurate statement is that any organization can benefit from improving diversity, equity, inclusion, and accessibility (DEIA) if it has representation gaps or barriers to opportunity.
-
-Here are examples of industries where DEI efforts are often discussed because they have historically had lower representation of certain groups:
-
-Industry	Common DEI Focus
-Technology	Increase representation of women and underrepresented racial/ethnic groups in engineering and leadership
-Construction	Recruit more women and diverse talent into skilled trades
-Manufacturing	Expand hiring and advancement opportunities
-Finance & Banking	Improve leadership diversity and equitable promotion
-Healthcare	Build culturally competent care and a diverse workforce
-Law	Increase diversity among attorneys, judges, and firm leadership
-Engineering	Encourage broader participation in STEM careers
-Video Games	Improve representation in development teams and leadership
-Artificial Intelligence	Reduce bias in AI systems through diverse teams and testing
-Government	Ensure public services reflect the communities they serve
-Why Companies Invest in DEI
-Better problem-solving
-More innovation
-Improved employee retention
-Broader customer understanding
-Better accessibility and inclusive product design
-Stronger collaboration across teams
-Examples of Companies Recognized for DEI Efforts
-
-These companies have been widely recognized for investing in inclusion initiatives (though like all large organizations, they continue to evolve):
-
-Microsoft
-Salesforce
-Accenture
-Adobe
-IBM
-Cisco
-
-For a class discussion, it's usually better to frame the topic as "Which industries have historically faced diversity challenges, and what are companies doing to address them?" rather than labeling specific companies as needing DEI. That approach is more evidence-based and encourages constructive discussion.
-
-list those
-# Companies That Have Historically Faced Diversity Challenges
-
-> **Note:** These companies have publicly discussed or reported diversity challenges and have invested in DEI initiatives. This does **not** mean they are "bad" companies—many are actively working to improve representation and inclusion.
-
-## Technology
-
-- Google
-- Meta (Facebook)
-- Apple
-- Microsoft
-- Amazon
-- Intel
-- Cisco
-- IBM
-- Oracle
-- Salesforce
-- Adobe
-- Uber
-- Airbnb
-- Netflix
-
----
-
-## Finance & Banking
-
-- JPMorgan Chase
-- Goldman Sachs
-- Bank of America
-- Wells Fargo
-- Citigroup
-- Morgan Stanley
-
----
-
-## Engineering & Manufacturing
-
-- Boeing
-- General Motors (GM)
-- Ford
-- Caterpillar
-- Siemens
-- General Electric (GE)
-
----
-
-## Video Games
-
-- Activision Blizzard
-- Electronic Arts (EA)
-- Ubisoft
-- Riot Games
-- Epic Games
-
----
-
-## Retail & Consumer Products
-
-- Walmart
-- Target
-- Nike
-- Starbucks
-- Costco
-
----
-
-## Healthcare & Pharmaceuticals
-
-- Johnson & Johnson
-- Pfizer
-- Merck
-- CVS Health
-- Kaiser Permanente
-
----
-
-## Consulting
-
-- Accenture
-- Deloitte
-- PwC
-- EY (Ernst & Young)
-- KPMG
-
----
-
-# Common DEI Goals Across These Companies
-
-- Increase representation of women
-- Increase representation of underrepresented racial and ethnic groups
-- Improve accessibility for employees and customers
-- Reduce hiring and promotion bias
-- Increase diversity in leadership
-- Create inclusive workplace cultures
-- Improve equal pay practices
-- Expand mentorship and career development programs
-act as a coding student making notes in md form # Readings: Authentication
-
-Below you will find some reading material, code samples, and some additional resources that support the topic for this class and the upcoming lecture.
-
-Review the Submission Instructions for guidance on completing and submitting this assignment.
 
 ## Reading
-
-- [What is OAuth](https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html)
-(see below)
-## Videos
-
-## Bookmark and Review
-
-- [Auth0 for single page apps](https://auth0.com/docs/libraries/auth0-react){:target="_blank"}
-
 
 
 # 📚 Authentication Notes
@@ -568,3 +410,19 @@ vid 1 # What is OAuth? – Notes
 - Use **Client Credentials** when no user is involved.
 - Avoid **Implicit Flow** and **Resource Owner Password Flow** for new projects when possible. :contentReference[oaicite:6]{index=6}
 ---
+
+
+- [What is OAuth](https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html){:target="_blank"}
+
+(vid 1 recap, scroll down)
+- [Authorization and Authentication flows](https://auth0.com/docs/flows){:target="_blank"}
+-vid 2 scroll down
+
+## Videos
+
+<!-- PLACEHOLDER -->
+
+## Bookmark and Review
+
+- [Auth0 for single page apps](https://auth0.com/docs/libraries/auth0-react){:target="_blank"}
+
