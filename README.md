@@ -6,13 +6,18 @@ This site is for notes on reading assignments learned during the software develo
 
 >**Writing code in public, learning as I go**
 
-*Hello World. My name is A. Givens. I've started my journey this year in Software Development. My prior experience has been in Multimedia applications and projects. I enjoy both the creative and the creating or building. Please stay tuned for more experiments in tech!*
+*Hello, world! My name is A. Givens. My interest in technology has taken many forms over the years, usually through creative applications. In 2021, I wrote my first line of python code and spent the year multimedia authoring.* 
+
+Consider this GitHub my soft opening: an evolving record of what I learn, build, revise, and improve. Stay tuned for more experiments in tech.!*
 
 **Growth Mindset**
 
 Advancing and scaling action through encouraging thought models.
 
->*The view you adopt for yourself profoundly affects the way you lead your life -Carol Dweck*
+*Teach girls bravery, not perfection. —Reshma Saujani*
+
+>*Growth comes from embracing challenges, learning from mistakes, and continuing to improve. -Carol Dweck*
+
 
 **Three Reminders of Growth Mindset**
 
