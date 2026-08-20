@@ -38,7 +38,7 @@ Run the following command in the terminal:
 npm -v
 ```
 
-My NPM version is: `____________`
+My NPM version is: `11.12.1`
 
 #### 2. What command installs a package called `jshint`?
 
@@ -65,8 +65,9 @@ Testing software is similar to checking a smoke alarm before there is a fire. Te
 #### 2. What are three expected benefits of testing?
 
 - Testing reduces the number of bugs.
-- Testing helps developers discover problems earlier.
+- Testing helps developers discover problems earlier, before users/customers use it.
 - Testing allows developers to change code with greater confidence.
+-Saves time and money
 
 #### 3. Name at least two individual and two team pitfalls.
 
@@ -74,11 +75,15 @@ Testing software is similar to checking a smoke alarm before there is a fire. Te
 
 - Forgetting to run tests regularly.
 - Writing tests that are too large or complicated.
+-writing too few tests. taking the happy path vs having untested edge cases
+-write tests during the process not afterwards
 
 **Team pitfalls:**
 
 - Only some team members consistently write tests.
 - The team fails to maintain or regularly run the test suite.
+-not agreeing on testing standards
+-ignoring testing standards
 
 ## CI/CD
 
