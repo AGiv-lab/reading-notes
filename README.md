@@ -8,7 +8,7 @@ This site is for notes on reading assignments learned during the software develo
 
 *Hello, world! My name is A. Givens. My interest in technology has taken many forms over the years, usually through creative applications. In 2021, I wrote my first line of python code and spent the year multimedia authoring.* 
 
-Consider this GitHub my soft opening: an evolving record of what I learn, build, revise, and improve. Stay tuned for more experiments in tech.!*
+Consider this GitHub my soft opening: an evolving record of what I learn, build, revise, and improve. Stay tuned for more experiments in tech!
 
 **Growth Mindset**
 
@@ -90,25 +90,23 @@ Advancing and scaling action through encouraging thought models.
 
 [**301**]
 
-[reading-01](301/read-01)
+[reading-02](301/read-02.md)
 
-[reading-02](301/read-02)
+[reading-03](301/read-03.md)
 
-[reading-03](301/read-03)
+[reading-04](301/read-04.md)
 
-[reading-04](301/read-04)
-
-[reading-05](201/read-05)
+[reading-05](201/read-05.md)
 
 
 [**401**]
 
-[reading-01](401/read-01)
+[reading-01](401/read-01.md)
 
-[reading-02](401/read-02)
+[reading-02](401/read-02.md)
 
-[reading-03](401/read-03)
+[reading-03](401/read-03.md)
 
-[reading-04](401/read-04)
+[reading-04](401/read-04.md)
 
-[reading-05](401/read-05)
+[reading-05](401/read-05md)
