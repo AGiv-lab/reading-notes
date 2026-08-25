@@ -1,6 +1,6 @@
 # Reading-Notes
 
-This site is for notes on reading assignments learned during the software development class.
+This site contains my reading notes and assignments from software development courses.
 
 ## **Bio**
 
@@ -37,7 +37,7 @@ Advancing and scaling action through encouraging thought models.
 
 ### **Table of Contents**
 
-[**102**] 
+[**102**] ## Code 102 - Intro to Software Development
 
 [reading-01](102/read-01)
 
@@ -55,7 +55,7 @@ Advancing and scaling action through encouraging thought models.
 
 [reading-08](102/read-08)
 
-[**201**]
+[**201**] ## Code 201 - Foundations of Software Development
 
 [reading-01](201/read-01)
 
@@ -88,7 +88,7 @@ Advancing and scaling action through encouraging thought models.
 [reading-15](201/read-15)
 
 
-[**301**]
+[**301**] ## Code 301 - Intermediate Software Development
 
 [reading-02](301/read-02.md)
 
@@ -99,7 +99,7 @@ Advancing and scaling action through encouraging thought models.
 [reading-05](201/read-05.md)
 
 
-[**401**]
+[**401**] ## Code 401 - Advanced Software Development
 
 [reading-01](401/read-01.md)
 
