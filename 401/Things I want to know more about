@@ -1,0 +1,34 @@
+# Things I Want to Know More About
+
+## Class 01 — Node Ecosystem
+
+- How Node.js is used in larger real-world applications.
+- How CI/CD changes when working on a development team.
+- How automated testing fits into the development process.
+
+## Class 02 — Express
+
+- How middleware is used in production applications.
+- How Express decides which middleware or route runs next.
+- Better ways to organize routes, middleware, and error handlers as an application grows.
+
+## Class 03 — Express REST API
+
+- How REST APIs communicate with front-end applications.
+- How to decide which HTTP status code should be returned.
+- How to structure a larger API with multiple resources and routes.
+
+## Class 04 — Data Modeling
+
+- How to decide what information should become a model.
+- When SQL is a better choice than NoSQL and vice versa.
+- How Sequelize models relate to tables in PostgreSQL.
+- How relationships between different models are created.
+
+## Class 05 — Linked Lists
+
+- When a Linked List is a better choice than an array.
+- How `next` actually stores a reference to another Node in memory.
+- How inserting and deleting Nodes changes the links between Nodes.
+- How Linked Lists lead into more complex data structures such as stacks, queues, trees, and graphs.
+- How Big O can be determined by looking at an algorithm.
