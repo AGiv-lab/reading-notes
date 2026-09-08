@@ -60,7 +60,7 @@ Authorization: Basic <encoded-credentials>
 
 ### How are `username:password` encoded?
 
-The username and password are joined together with a colon:
+The username and password are joined together in a string with a colon:
 
 ```text
 username:password
@@ -91,7 +91,7 @@ Authentication answers:
 Authentication is different from authorization:
 
 - **Authentication** verifies identity.
-- **Authorization** determines what the verified user is allowed to access.
+- **Authorization** determines what the verified user permissions are
 
 ### How should error messaging respond in both HTTP and HTML? Why?
 
