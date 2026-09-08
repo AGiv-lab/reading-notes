@@ -32,3 +32,13 @@
 - How inserting and deleting Nodes changes the links between Nodes.
 - How Linked Lists lead into more complex data structures such as stacks, queues, trees, and graphs.
 - How Big O can be determined by looking at an algorithm.
+
+## Class 06 — Authentication
+
+- How bcrypt compares a submitted password with a stored hash without decrypting it.
+- How salts and password hashes are stored in a database.
+- How developers select an appropriate bcrypt work factor.
+- When Basic Authentication should be used instead of tokens or session-based authentication.
+- How JSON Web Tokens, cookies, and sessions keep users signed in.
+- How applications provide useful error messages without revealing sensitive account information.
+- How multi-factor authentication adds another layer of security.
