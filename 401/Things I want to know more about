@@ -42,3 +42,22 @@
 - How JSON Web Tokens, cookies, and sessions keep users signed in.
 - How applications provide useful error messages without revealing sensitive account information.
 - How multi-factor authentication adds another layer of security.
+
+## Class 07 - Bearer Authorization
+
+-How access tokens and refresh tokens work together
+-How JWT expiration is enforced
+-Where browsers should safely store tokens
+-How a server revokes a JWT before it expires
+-The difference between symmetric and asymmetric signing
+-How bearer authorization middleware protects Express routes
+
+*Resources*
+
+Introduction to JSON Web Tokens  https://jwt.io/introduction/
+
+If you can decode JWT, how are they secure?  https://jwt.io/introduction/
+
+JWTs Explained  https://www.youtube.com/watch?v=926mknSW9Lo 
+
+npm jsonwebtoken documentation https://www.npmjs.com/package/jsonwebtoken
