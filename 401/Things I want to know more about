@@ -61,3 +61,129 @@ If you can decode JWT, how are they secure?  https://jwt.io/introduction/
 JWTs Explained  https://www.youtube.com/watch?v=926mknSW9Lo 
 
 npm jsonwebtoken documentation https://www.npmjs.com/package/jsonwebtoken
+
+
+## Class 08 - ACL, Access Control
+
+## Things I Want to Know More About
+
+### How is role information stored securely in a JWT?
+
+A JWT can contain information about a user's role or permissions, such as `user`, `editor`, or `admin`. The server signs the token so that changes to its contents can be detected. Sensitive information, such as passwords, should never be stored inside the token.
+
+### What is the difference between roles and capabilities?
+
+A **role** describes what type of user someone is, while a **capability** describes a specific action they are allowed to perform.
+
+```text
+Role: Editor
+
+Capabilities:
+- read
+- create
+- update
+```
+
+This allows an application to check for a specific capability instead of only checking a role name.
+
+### How do we prevent users from changing their own roles?
+
+Users should not be allowed to directly assign themselves roles through normal profile updates. Role changes should be controlled by trusted server-side logic and restricted to authorized users, such as administrators.
+
+```text
+Regular User → Cannot assign roles
+Admin → Can assign approved roles
+```
+
+### How are roles assigned when working in teams?
+
+Team roles should be based on responsibilities rather than the individual person. For example, a development team might have developers, maintainers, and administrators with different levels of access.
+
+```text
+Developer  → Read + Create + Update
+Maintainer → Read + Create + Update + Merge
+Admin      → Full administrative access
+```
+
+The goal is to give each team member enough access to complete their work without giving everyone unnecessary administrative permissions.
+
+### When should RBAC be used instead of an ACL?
+
+RBAC is useful when many users can be grouped according to their responsibilities. An ACL can be more useful when permissions need to be assigned to a specific resource.
+
+```text
+RBAC:
+Editor → Can update articles
+
+ACL:
+Article #25 → A. Givens can edit
+```
+
+An application can also use both approaches together.
+
+### How do large applications manage hundreds of permissions?
+
+Large applications can organize permissions into roles and reusable capabilities instead of checking individual users throughout the application.
+
+For example:
+
+```text
+Admin
+├── read
+├── create
+├── update
+├── delete
+└── manage-users
+```
+
+Keeping authorization rules centralized also makes them easier to update and audit.
+
+### How is authorization middleware tested?
+
+Authorization middleware should be tested with users who have different roles and capabilities.
+
+Tests should confirm that:
+
+- Authorized users can access protected routes.
+- Unauthorized users are denied access.
+- Users cannot gain permissions from another role.
+- Requests without valid authentication are rejected.
+- Higher-level roles receive the correct capabilities.
+
+This helps verify that protected routes are actually enforcing the application's access-control rules.
+
+## Class 8- Authorization/Authentication
+
+## Real-World Example: Movie Databases
+
+Streaming platforms such as Netflix and Tubi rely on large databases to organize and retrieve information about movies and TV shows.
+
+A movie record might contain data such as:
+
+```javascript
+{
+  title: 'Example Movie',
+  genre: 'Drama',
+  year: 2026,
+  rating: 'PG-13',
+  available: true
+}
+```
+
+The database can support features such as:
+
+- Searching for movies by title
+- Filtering by genre
+- Displaying movie details
+- Tracking what content is currently available
+- Organizing movies into categories
+- Connecting users with watchlists and viewing history
+- Helping recommendation systems find relevant content
+
+The basic idea is similar to our smaller movie API:
+
+```text
+User → Application → API → Movie Database → Results
+```
+
+Netflix, Tubi, and other streaming services operate at a much larger scale, but the core concept of storing structured movie data and retrieving it through application services is similar to what we practice when building a CRUD API.
