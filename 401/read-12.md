@@ -62,8 +62,7 @@ socket.emit('message', 'Hello World!');
 - **WebSocket:** A communication protocol for real-time, two-way messaging.
 - **Socket.IO:** A JavaScript library that provides event-based communication, automatic reconnection, rooms, namespaces, and transport fallbacks.
 
-WebSocket is the underlying standard, while Socket.IO provides additional features. Socket.IO is not simply a standard WebSocket implementation.
-
+WebSocket is a standard communication protocol. Socket.IO is a separate library and protocol that can use WebSocket for communication.
 ### 2. When would you use Socket.IO?
 
 When building applications that benefit from built-in event handling and connection management.
@@ -76,7 +75,7 @@ Examples:
 
 ### 3. When would you use WebSockets?
 
-When an application needs direct, (persistent connection)/real-time communication using the standard WebSocket protocol without Socket.IO's additional features.
+When an application needs direct, persistent, real-time communication without Socket.IO's additional features.
 
 ---
 
