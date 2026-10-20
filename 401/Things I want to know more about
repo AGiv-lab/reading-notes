@@ -199,3 +199,39 @@ Netflix, Tubi, and other streaming services operate at a much larger scale, but 
 
 How should I use keywords?
 Include job-relevant terms naturally in your headline, About section, Skills, experience, and project descriptions. Match terminology you repeatedly see in job postings you actually qualify for.
+
+##Class 11 
+
+1. **Real-world applications:** How do apps like Netflix or Spotify use event-driven programming to respond to user actions?
+
+2. **Multiple events:** How does Node.js manage multiple events happening at the same time?
+
+3. **Frontend and backend:** How do events connect frontend user interactions with backend server operations?
+
+4. **Error handling:** What happens when an event fails, and how can Node.js handle the error?
+
+5. **EventEmitter:** When should I use `EventEmitter` instead of calling a regular JavaScript function?
+
+##Class 12 
+
+Things I Want to Know More About
+
+1. How does Socket.io handle clients that lose their connection?
+
+2. When should developers use Socket.io instead of a REST API?
+
+3. How can namespaces and rooms organize users in a chat application?
+
+4. How does Socket.io help track deliveries in real time?
+
+Key Takeaway
+
+Socket.io enables real-time communication using events. Clients and servers can exchange information without repeatedly making HTTP requests.
+
+Resources (in reading notes)
+
+Socket.io Documentation
+
+Socket.io Emit Cheatsheet
+
+Node.js Events
