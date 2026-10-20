@@ -85,14 +85,6 @@ An online store could use:
 Each namespace can have its own event listeners and access rules.
 
 ---
-
-## Things I Want to Know More About
-
-1. How can Socket.IO rooms support private messaging?
-2. How do namespaces improve application organization?
-3. How can Socket.IO handle disconnected users without losing important messages?
-4. How are message queues different from Socket.IO events?
-
 ## Key Takeaway
 
 Socket.IO enables real-time communication between clients and servers. **Rooms** organize connected users into groups, while **namespaces** separate communication channels for different application features.

@@ -235,3 +235,11 @@ Socket.io Documentation
 Socket.io Emit Cheatsheet
 
 Node.js Events
+
+## Class 13: Message Queues
+
+1. How can Socket.IO rooms support private messaging?
+2. How do namespaces help organize larger applications?
+3. How does Socket.IO handle messages when a user disconnects?
+4. What is the difference between message queues and Socket.IO events?
+5. How can message queues improve real-time delivery tracking applications?
