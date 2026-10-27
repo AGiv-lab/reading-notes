@@ -244,3 +244,12 @@ Node.js Events
 4. What is the difference between message queues and Socket.IO events?
 5. How can message queues improve real-time delivery tracking applications?
 
+## Class 16: Binary Trees — CC16 and CC17
+
+### Things I Want to Know More About
+
+1. How does recursion help find the maximum value in a binary tree?
+2. Why does breadth-first traversal use a FIFO queue?
+3. What is the difference between breadth-first and depth-first traversal?
+4. How do I determine time and space complexity for tree algorithms?
+5. How can I clearly demonstrate tree traversal on a whiteboard?
