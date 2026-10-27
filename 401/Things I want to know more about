@@ -243,3 +243,4 @@ Node.js Events
 3. How does Socket.IO handle messages when a user disconnects?
 4. What is the difference between message queues and Socket.IO events?
 5. How can message queues improve real-time delivery tracking applications?
+
