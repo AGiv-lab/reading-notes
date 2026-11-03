@@ -267,3 +267,11 @@ Node.js Events
 3. How does React know which parts of the DOM need updating?
 4. When should I use `useState` instead of a regular JavaScript variable?
 5. How can I better understand the flow of data between parent and child components?
+
+## Class 27: useState() Hook
+
+1. How do I recognize when a value should be stored in state instead of a regular variable?
+2. Why does React need a setter function instead of allowing direct changes to state?
+3. How can I better understand when a component re-renders?
+4. What is the simplest way to decide which component should manage shared state?
+5. How do props and state work together when building interactive forms?
