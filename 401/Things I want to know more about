@@ -244,12 +244,26 @@ Node.js Events
 4. What is the difference between message queues and Socket.IO events?
 5. How can message queues improve real-time delivery tracking applications?
 
-## Class 16: Binary Trees — CC16 and CC17
+## Class 15: Trees — Things I Want to Know More About
 
-### Things I Want to Know More About
+1. How can I easily remember the differences between pre-order, in-order, and post-order traversal?
+2. Why does depth-first traversal commonly use recursion, while breadth-first traversal uses a queue?
+3. How can I trace a tree traversal step by step to better understand the order nodes are visited?
+4. What makes a binary search tree more efficient than a regular binary tree?
+5. How can I recognize whether a tree is balanced or unbalanced, and how does that affect Big O?
+
+## Class 16: Binary Trees — CC16 and CC17
 
 1. How does recursion help find the maximum value in a binary tree?
 2. Why does breadth-first traversal use a FIFO queue?
 3. What is the difference between breadth-first and depth-first traversal?
 4. How do I determine time and space complexity for tree algorithms?
 5. How can I clearly demonstrate tree traversal on a whiteboard?
+
+## Class 26: Component Based UI
+
+1. How do I decide when to break a React interface into smaller components?
+2. What is the easiest way to understand the difference between props and state?
+3. How does React know which parts of the DOM need updating?
+4. When should I use `useState` instead of a regular JavaScript variable?
+5. How can I better understand the flow of data between parent and child components?

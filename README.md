@@ -128,4 +128,8 @@ Advancing and scaling action through encouraging thought models.
 
 [reading-13](401/read-13.md) 
 
+[reading-15](401/read-15.md)
+
 [reading-16](401/read-16.md)
+
+[reading-26](401/read-26.md)
