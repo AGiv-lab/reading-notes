@@ -275,3 +275,12 @@ Node.js Events
 3. How can I better understand when a component re-renders?
 4. What is the simplest way to decide which component should manage shared state?
 5. How do props and state work together when building interactive forms?
+
+## Class 28: Component Lifecycle / useEffect() Hook
+
+1. How can I tell when to use `useEffect()` instead of an event handler?
+2. Why does `useEffect()` sometimes run more than once, even with an empty dependency array?
+3. How do I determine which variables belong in the dependency array?
+4. What happens if I forget to clean up an event listener or timer?
+5. How do `useState()` and `useEffect()` work together when fetching API data?
+*Note: In development, React Strict Mode may run an extra setup-and-cleanup cycle to help detect bugs. Also, useEffect() should not be used for calculations that can happen directly during rendering.*
