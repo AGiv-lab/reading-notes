@@ -284,3 +284,11 @@ Node.js Events
 4. What happens if I forget to clean up an event listener or timer?
 5. How do `useState()` and `useEffect()` work together when fetching API data?
 *Note: In development, React Strict Mode may run an extra setup-and-cleanup cycle to help detect bugs. Also, useEffect() should not be used for calculations that can happen directly during rendering.*
+
+## Class 29: Advanced State with Reducers
+
+1. How can I recognize when `useState()` is becoming too complicated and a reducer would be better?
+2. Why does `dispatch()` send an action instead of directly changing state?
+3. How does the reducer know which action to perform?
+4. What does it mean for a reducer to be a pure function?
+5. How can I practice converting an existing `useState()` component into `useReducer()`?
