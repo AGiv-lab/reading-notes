@@ -292,3 +292,11 @@ Node.js Events
 3. How does the reducer know which action to perform?
 4. What does it mean for a reducer to be a pure function?
 5. How can I practice converting an existing `useState()` component into `useReducer()`?
+
+## Class 30: Hash Tables
+
+1. How does a hash function determine which bucket stores a key-value pair?
+2. What causes collisions, and how does separate chaining resolve them?
+3. Why are hash table operations usually O(1) but sometimes O(n)?
+4. What is the difference between a JavaScript object, a `Map`, and a hash table?
+5. When would I choose a hash table instead of an array?
