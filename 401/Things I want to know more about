@@ -307,3 +307,10 @@ Node.js Events
 - How do `useContext` and `useReducer` work together?
 - Does updating Context cause every component using it to re-render?
 - When would Context make an application unnecessarily complicated?
+
+## Reading 32 — Context API: Behaviors
+
+- When should I combine `useReducer` and `useContext` instead of using `useState`?
+- How do custom Hooks simplify working with Context?
+- Can multiple reducers and Context providers be used in the same application?
+- How does Context affect component re-rendering and performance?
